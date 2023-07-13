@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Administrator\source\repos\Puck_man\Puck_man\Source.cpp(380,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\Puck_man\Puck_man\Source.cpp(328): warning C4715: “GetBool”: 不是所有的控件路径都返回值
+  Puck_man.vcxproj -> C:\Users\Administrator\source\repos\Puck_man\x64\Debug\Puck_man.exe
